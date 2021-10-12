@@ -1,0 +1,164 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "roboto";
+}
+.link {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  align-items: center;
+  letter-spacing: 0.1em;
+  color: #000000;
+}
+.item {
+  display: inline-block;
+  margin-right: 42px;
+}
+.link:hover {
+  color: #34547a;
+}
+.header {
+  padding: 79px 0 141px 0px;
+  background-color: #eeeff1;
+}
+.container {
+  max-width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.navigation {
+  margin-bottom: 160px;
+}
+.title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 60px;
+  color: #000000;
+  margin-bottom: 45px;
+}
+.text {
+  width: 540px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272;
+  margin: 0px 0px 73px 0px;
+}
+.button {
+  display: inline-block;
+  width: 225px;
+  height: 65px;
+  background-color: #34547a;
+  text-align: center;
+  padding: 19px 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+  text-decoration: none;
+}
+.about {
+  margin: 0px auto 0px auto;
+  padding: 112px 0px 89px 0px;
+}
+.textabout {
+  width: 540px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272;
+  margin: 0px auto 73px auto;
+}
+.titleabout {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 60px;
+  color: #000000;
+  margin-bottom: 45px;
+  text-align: center;
+}
+.projects {
+  padding: 100px 0px 100px 0px;
+  height: 250px;
+  background-color: #34547a;
+}
+.card-img {
+  display: inline-block;
+}
+.card-info {
+  vertical-align: top;
+  display: inline-block;
+  margin-left: 20px;
+}
+.cardnumber {
+  margin-bottom: 5px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.cardname {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #ffffff;
+}
+.card {
+  margin-right: 45px;
+  display: inline-block;
+}
+.card:last-child {
+  margin-right: 0px;
+}
+.video {
+  margin: 0px auto 0px auto;
+  padding: 112px 0px 89px 0px;
+  background-color: #eeeff1;
+}
+.footerin {
+  width: 1110px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer {
+  background-color: #34547a;
+  padding: 50px 0px;
+}
+.footerrights {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  color: #ffffff;
+}
+.footername {
+  margin-bottom: 15px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 21px;
+  line-height: 24px;
+  color: #ffffff;
+}
